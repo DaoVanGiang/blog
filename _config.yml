@@ -2,7 +2,7 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: https://github.com/daovangiang
+url: https://mazhuang.org
 date_format: "ordinal"
 title: DG
 subtitle: "NOTE"
