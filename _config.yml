@@ -5,10 +5,8 @@ baseurl:
 url: https://mazhuang.org
 date_format: "ordinal"
 title: 码志
-subtitle: "公众号：闷骚的程序员"
-description: "马壮的个人博客，公众号：闷骚的程序员"
-keywords: 码志, Zhuang Ma, mzlogin, mazhuang, 闷骚的程序员
-timezone: Asia/Shanghai
+subtitle: "NOTE"
+description: "Blog"
 encoding: "utf-8"
 # 页面左下角显示的年份
 since: 2015
@@ -57,8 +55,8 @@ highlight_theme: github
 author: Zhuang Ma
 organization: 
 organization_url: 
-github_username: mzlogin
-location: Wuhan, China
+github_username: giangdao
+location: Hanoi, VN
 email: chumpma@gmail.com
 
 # ---------------- #
@@ -71,7 +69,7 @@ navs:
 
   -
     href: /categories/
-    label: 分类
+    label: Categories
 
 #   -
 #     href: /archives/
@@ -83,15 +81,15 @@ navs:
 
   -
     href: /wiki/
-    label: 维基
+    label: Wiki
 
   -
     href: /links/
-    label: 链接
+    label: Links
 
   -
     href: /about/
-    label: 关于
+    label: About
 
 # ---------------- #
 #       RSS        #
