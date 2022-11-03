@@ -64,10 +64,6 @@ email: chumpma@gmail.com
 # ---------------- #
 navs:
   -
-    href: /
-    label: 首页
-
-  -
     href: /categories/
     label: Categories
 
